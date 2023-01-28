@@ -1,4 +1,4 @@
-# stm32-ssd1306
+# STM32LL-SSD1306
 
 STM32 library for working with OLEDs based on SSD1306, supports I2C, 4-wire SPI and emulated SPI.
 Based on STM32Cube LL.
